@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Software Carpentry at USQ
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+An inaugural [Software Carpentry](http://www.software-carpentry.org/) [workshop](https://fgacenga.github.io/2016-07-18-usq/index.html) will run at USQ in Toowoomba on 18-19 July. It will cover the Unix shell (bash), Python and version control with Git. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
