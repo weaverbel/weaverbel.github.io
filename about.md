@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog will advertise [Software Carpentry](http://www.software-carpentry.org/), [Data Carpentry](http://datacarpentry.org/) and [Library Carpentry](http://github.com/LibraryCarpentry) in Queensland and other parts of Australia. It will also include news about events such as the annual [Research Bazaar](https://twitter.com/ResBaz) also known as ResBaz.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I can help you organise [Software Carpentry](http://www.software-carpentry.org/), [Data Carpentry](http://datacarpentry.org/) and [Library Carpentry](http://github.com/LibraryCarpentry) events in Queensland. I am also an organiser for Brisbane [ResBaz](https://twitter.com/ResBaz). I run a weekly [hacky hour at UQ](https://twitter.com/HackyHourStLuc) where we try to answer your research IT questions.
 
-### Contact me
+### Ping me on Twitter
 
-[email@domain.com](mailto:email@domain.com)
+[cloudaus](https://twitter.com/cloudaus)
