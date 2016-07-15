@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog will advertise [Software Carpentry](http://www.software-carpentry.org/), [Data Carpentry](http://datacarpentry.org/) and [Library Carpentry](http://github.com/LibraryCarpentry) in Queensland and other parts of Australia. It will also include news about events such as the annual [Research Bazaar](https://twitter.com/ResBaz) also known as ResBaz.
+This blog will advertise [Software Carpentry](http://www.software-carpentry.org/), [Data Carpentry](http://datacarpentry.org/) and [Library Carpentry](http://github.com/LibraryCarpentry) events in Queensland and other parts of Australia. It will also include news about events such as the annual [Research Bazaar](https://twitter.com/ResBaz) also known as **ResBaz**.
 
 ### More Information
 
