@@ -16,5 +16,5 @@ I can help you organise [Software Carpentry](http://www.software-carpentry.org/)
 
 ### Want more Software Carpentry news?
 
-- Join the [Aus-NZ Software Carpentry mailing list](http://lists.software-carpentry.org/listinfo/aus-nz) (it's low traffic), or join some of the other [mailing lists]9http://software-carpentry.org/join/) Software Carpentry offer, such as the [discuss](http://lists.software-carpentry.org/listinfo/discuss) list.
+- Join the [Aus-NZ Software Carpentry mailing list](http://lists.software-carpentry.org/listinfo/aus-nz) (it's low traffic), or join some of the other [mailing lists](http://software-carpentry.org/join/) Software Carpentry offer, such as the [discuss](http://lists.software-carpentry.org/listinfo/discuss) list.
 - Follow [@swcarpentry](https://twitter.com/swcarpentry) on Twitter.
