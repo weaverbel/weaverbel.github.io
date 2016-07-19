@@ -1,0 +1,16 @@
+---
+layout: post
+title: Requesting Workshops
+---
+
+## Stay in touch via the mailing list
+
+There is a low-traffic email list you can join to stay in touch with Australian and New Zealand 
+Software Carpentry activities.
+
+Information about joining is [here](http://lists.software-carpentry.org/listinfo/aus-nz).
+
+It is a good way to find local instructors and helpers for workshops, or to raise issues or ask questions.
+
+You can follow the [Software Carpentry blog](http://software-carpentry.org/blog/) 
+for other Software Carpentry news.
