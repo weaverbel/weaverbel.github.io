@@ -8,7 +8,11 @@ This blog will advertise [Software Carpentry](http://www.software-carpentry.org/
 
 ### More Information
 
-I can help you organise [Software Carpentry](http://www.software-carpentry.org/), [Data Carpentry](http://datacarpentry.org/) and [Library Carpentry](http://github.com/LibraryCarpentry) events in Queensland. I am also an organiser for Brisbane [ResBaz](https://twitter.com/ResBaz). I run a weekly [hacky hour at UQ](https://twitter.com/HackyHourStLuc) where the hacky hour team try to answer your research IT questions.
+I can help you organise [Software Carpentry](http://www.software-carpentry.org/), [Data Carpentry](http://datacarpentry.org/) and [Library Carpentry](http://github.com/LibraryCarpentry) events in Queensland. 
+
+If you want a Software Carpentry workshop at your institution, [request one here](http://software-carpentry.org/workshops/request/).
+
+I am an organiser for Brisbane [ResBaz](https://twitter.com/ResBaz). I run a weekly [hacky hour at UQ](https://twitter.com/HackyHourStLuc) where the hacky hour team try to answer your research IT questions.
 
 ### Ping me on Twitter
 
