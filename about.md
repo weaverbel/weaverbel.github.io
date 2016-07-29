@@ -17,6 +17,7 @@ Belinda is an organiser for Brisbane [ResBaz](https://twitter.com/ResBaz). I run
 ### Ping us on Twitter
 
 [Belinda](https://twitter.com/cloudaus)
+
 [Damien](https://twitter.com/DrClimate)
 
 ### Want more Software Carpentry news?
