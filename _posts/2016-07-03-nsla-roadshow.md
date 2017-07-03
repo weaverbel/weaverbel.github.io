@@ -3,7 +3,7 @@ layout: post
 title: NSLA Roadshow
 ---
 
-The [National and State Libraries of Australasia}(http://www.nsla.org.au/) are funding an eight-city roadshow to bring Library 
+The [National and State Libraries of Australasia](http://www.nsla.org.au/) are funding an eight-city roadshow to bring Library 
 Carpentry to staff at their institutions in 2017. 
 
 The roadshow kicks off in Hobart in mid-July, and ends in Perth at the end of August. The NZ leg, at the National Library of New Zealand
