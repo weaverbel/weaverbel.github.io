@@ -14,4 +14,7 @@ Current workshop dates and places are posted on the [Library Carpentry](http://l
 Belinda Weaver will be teaching the one-day workshops, with the assistance of the State Library of Victoria's Aimee Said, 
 and other local helpers.
 
-The format will be hands-on, one-day workshops that introduce jargon busting, data structures, the use of regular expressions for pattern matching, automation of tasks using the Unix shell, and the use of OpenRefine to tranform and clean up data.
+The format will be hands-on, one-day workshops that introduce jargon busting, data structures, the use of regular expressions for pattern matching, automation of tasks using the Unix shell, and the use of OpenRefine to transform and clean up data.
+
+Worshhop websites:
+[Hobart](http://weaverbel.github.io/2017-07-17-nsla-linc) | [Brisbane](https://weaverbel.github.io/2017-07-19-nsla-slq/) | [Adelaide](https://weaverbel.github.io/2017-07-31-nsla-slsa/)  | [Melbourne](https://weaverbel.github.io/2017-08-07-nsla-slv/)  | [Sydney](https://weaverbel.github.io/2017-08-14-nsla-slnsw/)  | [Canberra](https://weaverbel.github.io/2017-08-21-nsla-nla/)  | [Perth](https://github.com/weaverbel/2017-08-28-nsla-slwa) .
