@@ -26,11 +26,18 @@ This provides links to our published lessons.
 
 For the 'back end', repository view of the lessons, check out the lessons prefixed `lc-` [here](https://github.com/librarycarpentry).
 
+### Registering a site
+
+Use this form to tell Mozilla you are hosting a site. https://docs.google.com/forms/d/e/1FAIpQLSdyLD5iv0HvURB-r9ejUz3NAO4wD0B1g-FBvIBgyZCaZj627g/viewform
+
+Add your site as well to our sprint etherpad: http://pad.software-carpentry.org/lc-sprint-2018
+
 ### How will the sprint work?
 
 We will use our [chatroom](https://gitter.im/LibraryCarpentry/Lobby) and 
 this [GitHub repository](https://github.com/data-lessons/librarycarpentry) to organise work during the 2-day sprint. 
 Join the chatroom at any time using your GitHub username or your Twitter handle. 
+
 These are the [issues](https://github.com/data-lessons/librarycarpentry/issues) we want to work on during the sprint. 
 To find out how you can help, look at the [README](https://github.com/data-lessons/librarycarpentry/blob/master/README.md) 
 and [CONTRIBUTING](https://github.com/data-lessons/librarycarpentry/blob/master/CONTRIBUTING.md) files. 
@@ -44,21 +51,28 @@ People can start working straightaway on *any* of the **#mozsprint** [issues](ht
 - There are a number of dedicated sprint site locations ([see them here](http://pad.software-carpentry.org/lc-sprint-2018)), 
 all of which will start working at different times as the sun moves around the globe. People may also be working remotely. 
 Sites will organise their own work and report back on how things are going during video calls, via the chatroom, or 
-through the daily handovers (where the baton will be passed on to the next locations).
+through the daily handovers (where the baton will be passed on to the next locations). regisyter your site here: https://docs.google.com/forms/d/e/1FAIpQLSdyLD5iv0HvURB-r9ejUz3NAO4wD0B1g-FBvIBgyZCaZj627g/viewform and add it to the [etherpad](http://pad.software-carpentry.org/lc-sprint-2018) as well 
+
 - Handovers will take place at the end of the work day in the southern hemisphere and at the beginning of the new work day there. 
+
 - Sprinters can work on whatever lessons or issues they like. If you are not a coder, try to pair up with others and work 
 through a lesson of your choice. Then raise issues, ask questions, suggest changes, or propose scenarios or workflows you 
 would like to see addressed. We are interested as much in ideas and feedback as in new code. Our aim is to make the 
 lessons as useful and as relevant as possible to librarians, archivists and other information workers. If you have a dataset to 
 contribute that would help make a good lesson, that would also be useful.
+
 - You can use the sprint to network. Most of the Library Carpentry community will be taking part in this sprint at different times. Use the sprint to meet these people virtually and talk about running a workshop, hosting a workshop, or other issues that have cropped up for you, your institution or your country. We want to spread the Library Carpentry word as far and wide as possible, so use the sprint to find out how you can help.
+
 - Our [etherpad](http://pad.software-carpentry.org/lc-sprint-2018) is another tool we will use for organising the work of the sprint. 
 Dedicated etherpads will be created for each lesson being worked on - they will be listed on this etherpad once the sprint is underway. 
 The individual repositories are all listed below.
-- Links to video calls will also be posted on the etherpad, with the scheduled times.
+
+- Links to video calls will also be posted on the etherpad, with the scheduled times - all links will show the time and date in your zone.
+
 - Since people are working both at dedicated sites (see the [etherpad for locations](http://pad.software-carpentry.org/lc-sprint-2018)) 
 and remotely, we will touch base regularly so everyone feels part of things. You can use the [chatroom](https://gitter.im/LibraryCarpentry/Lobby)
 at any time to say in touch, or to post updates or ask questions.
+
 - If you are a tweeter, please tweet about the event using the handle **@LibCarpentry** and the hashtags **#lc2018** and **#mozsprint**. Photos are good too. It would be great to have photos of each site's people working away so we can do an illustrated blog post of how the sprint went.
 
 ### What you can do
